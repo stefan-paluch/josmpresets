@@ -26,6 +26,17 @@
  <key key="barrier" value="ditch" />
       <key key="start_date" value="1944" />
 </item>
+    <item name="track-bad-ground-grade5" icon="track-bad-ground-grade5.svg" type="way">
+  <key key="highway" value="track" />
+  <key key="smoothness" value="bad" />
+<key key="surface" value="ground" />
+<key key="tracktype" value="grade5" />
+</item>
+    <item name="path-bad-ground" icon="path-bad-ground.svg" type="way">
+  <key key="highway" value="path" />
+  <key key="smoothness" value="bad" />
+  <key key="surface" value="ground" />
+ </item>
 
 
   </group>
