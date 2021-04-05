@@ -19,8 +19,12 @@
 </item>
 
 <item name="wetland" icon="wetland.svg" type="closedway">
-  <key key="natural" value="wetland" />
-
+ <key key="natural" value="wetland" />
+</item>
+    
+    <item name="trench" icon="trench.svg" type="way">
+ <key key="barrier" value="ditch" />
+      <key key="start_date" value="1944" />
 </item>
 
 
