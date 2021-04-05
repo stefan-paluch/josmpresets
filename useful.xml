@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0"
+  author="Stefan Paluch"
+  icon="useful.svg"
+  version="1"
+  shortdescription="Some useful presets"
+  description="Some additional presets to use">
+
+  <group name="Useful" icon="useful.svg">
+    <item name="pond" icon="pond.svg" type="closedway">
+      <key key="natural" value="water" />
+      <key key="water" value="pond" />
+    </item>
+  </group>
+</presets>
