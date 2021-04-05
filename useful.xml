@@ -8,7 +8,7 @@
 
   <group name="Useful" icon="useful.svg">
 
-    <item name="pond" icon="pond.png" type="closedway">
+    <item name="pond" icon="pond.svg" type="closedway">
       <key key="natural" value="water" />
       <key key="water" value="pond" />
     </item>
@@ -18,7 +18,7 @@
   <key key="water" value="reservoir" />
 </item>
 
-<item name="wetland" icon="wetland.png" type="closedway">
+<item name="wetland" icon="wetland.svg" type="closedway">
   <key key="natural" value="wetland" />
 
 </item>
